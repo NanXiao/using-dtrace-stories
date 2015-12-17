@@ -4,6 +4,8 @@ A collection of using DTrace to debug system stories.
 
 [Ask DTrace: Why are my tests so slow?](https://blog.8thlight.com/colin-jones/2015/12/01/ask-dtrace-why-are-my-tests-so-slow.html)  
 
+[Bruning Questions: DTracing Hardware Cache Counters](https://www.joyent.com/blog/dtracing-hardware-cache-counters)  
+
 [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)  
 
 [Hooked on DTrace](https://www.bignerdranch.com/blog/hooked-on-dtrace-part-1/)  
