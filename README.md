@@ -8,6 +8,8 @@ A collection of using DTrace to debug system stories.
 
 [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)  
 
+[Example of a FreeBSD bug hunting session by a simple user](http://blog.cochard.me/2016/01/example-of-freebsd-bug-hunting-session.html)
+
 [Hooked on DTrace](https://www.bignerdranch.com/blog/hooked-on-dtrace-part-1/)  
 
 [How My Printer Caused Excessive Syscalls & UDP Traffic](http://zinascii.com/2014/how-my-printer-caused-excessive-syscalls.html)    
