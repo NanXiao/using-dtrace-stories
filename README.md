@@ -8,7 +8,9 @@ A collection of using DTrace to debug system stories.
 
 [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)  
 
-[Example of a FreeBSD bug hunting session by a simple user](http://blog.cochard.me/2016/01/example-of-freebsd-bug-hunting-session.html)
+[Example of a FreeBSD bug hunting session by a simple user](http://blog.cochard.me/2016/01/example-of-freebsd-bug-hunting-session.html)  
+
+[Finding out what's really going on, with DTrace!](https://speakerdeck.com/trptcolin/finding-out-whats-star-really-star-going-on-with-dtrace)
 
 [Hooked on DTrace](https://www.bignerdranch.com/blog/hooked-on-dtrace-part-1/)  
 
