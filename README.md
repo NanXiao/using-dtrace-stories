@@ -6,6 +6,8 @@ A collection of using DTrace to debug system stories.
 
 [Bruning Questions: DTracing Hardware Cache Counters](https://www.joyent.com/blog/dtracing-hardware-cache-counters)  
 
+[Debugging using system calls in Mac OS X](http://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html)
+
 [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)  
 
 [Example of a FreeBSD bug hunting session by a simple user](http://blog.cochard.me/2016/01/example-of-freebsd-bug-hunting-session.html)  
