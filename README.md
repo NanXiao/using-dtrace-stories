@@ -20,6 +20,8 @@ A collection of using DTrace to debug system stories.
 
 [How To Automatically Update Your Home Media Server Library With DTrace](http://constantin.glez.de/blog/2010/04/how-automatically-update-your-home-media-server-library-dtrace)  
 
+[Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630)  
+
 [OpenSolaris DTrace for Home Media Servers, Revisited](http://constantin.glez.de/blog/2010/05/opensolaris-dtrace-home-media-servers-revisited)  
 
 [Reducing RAM usage in pkgin](http://www.perkin.org.uk/posts/reducing-ram-usage-in-pkgin.html)  
