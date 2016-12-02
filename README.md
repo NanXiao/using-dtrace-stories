@@ -28,7 +28,9 @@ A collection of using DTrace to debug system stories.
 
 [Tracking input with DTrace on OS X](http://dyjakan.sigsegv.pl/tracking-input-with-dtrace-on-os-x.html)  
 
-[Use DTrace to diagnose gdb issues](http://nanxiao.me/en/use-dtrace-to-diagnose-gdb-issues/)  
+[Use DTrace to diagnose gdb issues](http://nanxiao.me/en/use-dtrace-to-diagnose-gdb-issues)  
+
+[Using DTrace to measure mutex contention in Ruby](https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby)  
 
 [Using DTrace to understand mpstat and vmstat output](http://prefetch.net/articles/dtracecookbook.html)  
 
