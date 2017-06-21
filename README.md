@@ -14,6 +14,8 @@ A collection of using DTrace to debug system stories.  
 
 [Debugging SmartOS #1 Finding Lock Inversions with DTrace](https://zinascii.com/2017/dbg-sos-001.html)
 
+[Debugging a strange iTunes permissions problem with DTrace](http://adamrosenfield.com/blog/2011/11/27/debugging-a-strange-itunes-permissions-problem-with-dtrace/)
+
 [Debugging using system calls in Mac OS X](http://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html)
 
 [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)  
