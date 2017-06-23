@@ -36,6 +36,8 @@ A collection of using DTrace to debug system stories.  
 
 [Reducing RAM usage in pkgin](http://www.perkin.org.uk/posts/reducing-ram-usage-in-pkgin.html)  
 
+[Rust Profiling with DTrace and FlameGraph on OSX](http://carol-nichols.com/2017/04/20/rust-profiling-with-dtrace-on-osx/)
+
 [Tracking input with DTrace on OS X](http://dyjakan.sigsegv.pl/tracking-input-with-dtrace-on-os-x.html)  
 
 [Use DTrace to diagnose gdb issues](http://nanxiao.me/en/use-dtrace-to-diagnose-gdb-issues)  
