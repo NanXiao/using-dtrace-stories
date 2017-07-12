@@ -30,6 +30,8 @@ A collection of using DTrace to debug system stories.  
 
 [How To Automatically Update Your Home Media Server Library With DTrace](http://constantin.glez.de/blog/2010/04/how-automatically-update-your-home-media-server-library-dtrace)  
 
+[I/O analysis using DTrace](https://blogs.oracle.com/bestperf/io-analysis-using-dtrace)
+
 [Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630)  
 
 [OpenSolaris DTrace for Home Media Servers, Revisited](http://constantin.glez.de/blog/2010/05/opensolaris-dtrace-home-media-servers-revisited)  
