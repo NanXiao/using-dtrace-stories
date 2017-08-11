@@ -32,7 +32,9 @@ A collection of using DTrace to debug system stories.  
 
 [I/O analysis using DTrace](https://blogs.oracle.com/bestperf/io-analysis-using-dtrace)
 
-[Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630)  
+[Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630) 
+ 
+[My first (well, ok, third) DTrace hack](https://blog.bimajority.org/2013/10/29/my-first-well-ok-third-dtrace-hack/)  
 
 [OpenSolaris DTrace for Home Media Servers, Revisited](http://constantin.glez.de/blog/2010/05/opensolaris-dtrace-home-media-servers-revisited)  
 
