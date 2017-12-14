@@ -18,6 +18,8 @@ A collection of using DTrace to debug system stories.  
 
 [Debugging using system calls in Mac OS X](http://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html)
 
+[Dynamic tracing a Pony + Python program with DTrace](https://blog.wallaroolabs.com/2017/12/dynamic-tracing-a-pony---python-program-with-dtrace/)
+
 [Erlang Dirty Scheduler Overhead](https://medium.com/@jlouis666/erlang-dirty-scheduler-overhead-6e1219dcc7)  
 
 [Example of a FreeBSD bug hunting session by a simple user](http://blog.cochard.me/2016/01/example-of-freebsd-bug-hunting-session.html)  
