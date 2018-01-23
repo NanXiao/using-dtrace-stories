@@ -12,6 +12,8 @@ A collection of using DTrace to debug system stories.  
 
 [DTrace flamegraphs for FreeBSD and node.js](http://www.venshare.com/dtrace-flamegraphs-for-freebsd-and-node-js-2/)
 
+[Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace](http://nullprogram.com/blog/2018/01/17/)
+
 [Debugging SmartOS #1 Finding Lock Inversions with DTrace](https://zinascii.com/2017/dbg-sos-001.html)
 
 [Debugging a strange iTunes permissions problem with DTrace](http://adamrosenfield.com/blog/2011/11/27/debugging-a-strange-itunes-permissions-problem-with-dtrace/)
