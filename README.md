@@ -42,6 +42,8 @@ A collection of using DTrace to debug system stories.  
 
 [OpenSolaris DTrace for Home Media Servers, Revisited](http://constantin.glez.de/blog/2010/05/opensolaris-dtrace-home-media-servers-revisited)  
 
+[Profiling Django with DTrace and cProfile](https://wiedi.frubar.net/blog/2019/11/18/django-performance/)  
+
 [Reducing RAM usage in pkgin](http://www.perkin.org.uk/posts/reducing-ram-usage-in-pkgin.html)  
 
 [Rust Profiling with DTrace and FlameGraph on OSX](http://carol-nichols.com/2017/04/20/rust-profiling-with-dtrace-on-osx/)
