@@ -2,6 +2,8 @@
 
 A collection of using DTrace to debug system stories.  
 
+[A Look at Profiling: FreeBSD Sort](https://freebsdfoundation.org/blog/a-look-at-profiling-freebsd-sort/)
+
 [Arbitrary Kernel Memory Reads on Illumos](http://benmmurphy.github.io/blog/2017/01/06/arbitrary-kernel-memory-reads-on-illumos/)  
 
 [Ask DTrace: Why are my tests so slow?](https://blog.8thlight.com/colin-jones/2015/12/01/ask-dtrace-why-are-my-tests-so-slow.html)  
