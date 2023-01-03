@@ -36,6 +36,8 @@ A collection of using DTrace to debug system stories.  
 
 [How To Automatically Update Your Home Media Server Library With DTrace](http://constantin.glez.de/blog/2010/04/how-automatically-update-your-home-media-server-library-dtrace)  
 
+[Hunting kernel lock and interrupt latency](https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html)  
+
 [I/O analysis using DTrace](https://blogs.oracle.com/bestperf/io-analysis-using-dtrace)
 
 [Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630) 
