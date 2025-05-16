@@ -41,6 +41,8 @@ A collection of using DTrace to debug system stories.  
 [I/O analysis using DTrace](https://blogs.oracle.com/bestperf/io-analysis-using-dtrace)
 
 [Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630) 
+
+[Misadventures in DTrace: how to debug the macOS kernel](https://jade.fyi/blog/misadventures-in-dtrace/)
  
 [My first (well, ok, third) DTrace hack](https://blog.bimajority.org/2013/10/29/my-first-well-ok-third-dtrace-hack/)  
 
