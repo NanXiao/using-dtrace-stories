@@ -38,6 +38,8 @@ A collection of using DTrace to debug system stories.  
 
 [Hunting kernel lock and interrupt latency](https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html)  
 
+[Hunting Memory Leaks in bsnmpd with DTrace](https://oshogbo.com/blog/92/)
+
 [I/O analysis using DTrace](https://blogs.oracle.com/bestperf/io-analysis-using-dtrace)
 
 [Lx_fix_netstack() ironically leaks netstack reference](https://smartos.org/bugview/OS-5630) 
